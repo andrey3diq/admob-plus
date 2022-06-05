@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.source_files = "ios/**/*.{h,c,cc,cpp,m,mm,swift}"
 
   s.dependency "React-Core"
-  s.dependency 'Google-Mobile-Ads-SDK', '~> 8.13.0'
+  s.dependency 'Google-Mobile-Ads-SDK', '~> 9.5.0'
 end
